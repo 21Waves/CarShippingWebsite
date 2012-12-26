@@ -14,8 +14,16 @@ This solution offers an alternative from where the problems starts, the agent **
 	- Agent can upload copies of final docs
 	- Documents are related to the transaction/Vehicle
 3. Ability to Email/Phone/Text updates/notifications to customers
-4. Blog
-5. FAQ
-6. About us
-7. Services & Prices
-8. Contacts
+4. Quotes
+	- Fill-out a responsive form that guides you correctly through
+	- View quote price/value immediately
+	- Accept the quote online
+5. Selling cars for shipping
+	- List available cars and where they can be shipped to, including full price quotes to the final destination port
+	- Accept buyer requests for cars and trucks
+	- Inline response to buyer requests
+6. Blog
+8. About us
+9. Services & Prices
+10. Contacts
+11. FAQ
