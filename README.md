@@ -7,12 +7,12 @@ This solution offers an alternative from where the problems starts, the agent **
 
 ## Features (What you actually get)
 1. User Management
--- Signup and Login
--- Contact details
+	- Signup and Login
+	- Contact details
 2. Documents
--- User can upload their proof, vehicle docs, pictures
--- Agent can upload copies of final docs
--- Documents are related to the transaction/Vehicle
+	- User can upload their proof, vehicle docs, pictures
+	- Agent can upload copies of final docs
+	- Documents are related to the transaction/Vehicle
 3. Ability to Email/Phone/Text updates/notifications to customers
 4. Blog
 5. FAQ
