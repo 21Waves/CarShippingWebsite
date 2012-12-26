@@ -18,7 +18,7 @@ This solution offers an alternative from where the problems starts, the agent **
 	- Fill-out a responsive form that guides you correctly through
 	- View quote price/value immediately
 	- Accept the quote online
-5. Selling cars for shipping
+5. Selling cars for export
 	- List available cars and where they can be shipped to, including full price quotes to the final destination port
 	- Accept buyer requests for cars and trucks
 	- Inline response to buyer requests
